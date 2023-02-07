@@ -3,5 +3,5 @@
 ## Description
 Protect your spaceship from the incoming asteroids!  
 
-## Usage
+## Controls
 Use W, A, S, D controls.
